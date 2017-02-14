@@ -1,0 +1,21 @@
+{
+  "name": "DVD Strap",
+  "homepage": "https://github.com/davidcostadev/dvdstrap",
+  "authors": [
+    "David Costa <davidcosta@csthost.com.br>"
+  ],
+  "description": "Livraria extendida do bootstrap",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap",
+    "extend"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
