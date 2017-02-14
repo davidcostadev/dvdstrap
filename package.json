@@ -1,0 +1,23 @@
+{
+  "name": "dvdstrap",
+  "version": "1.0.0",
+  "description": "livraria extendida do bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://davidcostadev@github.com/davidcostadev/dvdstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "extend"
+  ],
+  "author": "David Costa davidcosta@csthost.com.br",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidcostadev/dvdstrap/issues"
+  },
+  "homepage": "https://github.com/davidcostadev/dvdstrap#readme"
+}
